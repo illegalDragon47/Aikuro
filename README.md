@@ -57,7 +57,7 @@ Aikuro is part of the **Autonomous Guild Framework**, which includes:
 
 ## 🧰 Installation
 
-**Method 1: Using Conda**
+**Method : Using Conda**
 
 ```bash
 conda create -n aikuro python=3.12

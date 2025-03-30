@@ -44,8 +44,8 @@ coverage.xml
 .DS_Store
 
 # Project specific
-config/config.toml
-config/*.toml
+
+
 *.log
 logs/
 

@@ -26,7 +26,7 @@ Create a **modular, scalable, and autonomous AI workforce** that works seamlessl
 
 Employees can interact with agents using natural language:  
  
-
+👉 [Click here to view the live prototype](https://v0-autonoguild.vercel.app/)
 
 ---
 
@@ -54,6 +54,7 @@ Aikuro is part of the **Autonomous Guild Framework**, which includes:
 
 
 
+
 ## 🧰 Installation
 
 **Method 1: Using Conda**
@@ -67,4 +68,6 @@ pip install -r requirements.txt
 playwright install   #for the browser automation
 python main.py
 go to config.toml and fill it with your Own API'S
+
+
 #

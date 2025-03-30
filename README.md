@@ -26,7 +26,7 @@ Create a **modular, scalable, and autonomous AI workforce** that works seamlessl
 
 Employees can interact with agents using natural language:  
  
-👉 [Click here to view the live prototype](https://v0-autonoguild.vercel.app/)
+👉 [Click here to view the Autonomous Guild ](https://v0-autonoguild.vercel.app/)
 
 ---
 
